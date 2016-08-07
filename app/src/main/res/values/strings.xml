@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidN新特性</string>
+    <string name="reply_label">请输入回复的内容</string>
+    <string name="label">快速回复</string>
+    <string name="enter_app">进入应用</string>
+    <string name="title">From：老王</string>
+    <string name="content">晚上要一起出去玩么？</string>
+</resources>
