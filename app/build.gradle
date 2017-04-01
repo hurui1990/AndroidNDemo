@@ -8,8 +8,8 @@ android {
         applicationId "com.hurui.androidndemo"
         minSdkVersion 21
         targetSdkVersion 24
-        versionCode 1
-        versionName "1.0"
+        versionCode 01
+        versionName "1.1"
     }
     buildTypes {
         release {
